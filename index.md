@@ -1,2 +1,5 @@
-### visualstasis.github.io
-SOON
+# VISUALSTASIS
+## by Zachary Robert
+
+
+COMING SOON
