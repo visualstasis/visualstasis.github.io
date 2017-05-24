@@ -1,7 +1,7 @@
 title: Visualstasis
-description: Visualstasis
+description: Personal Blog of Zachary Robert
 google_analytics: 
-show_downloads: true
+show_downloads: false
 theme: jekyll-theme-minimal
 
 gems:
