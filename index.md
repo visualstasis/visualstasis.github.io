@@ -1,4 +1,4 @@
 # Jungle Mix Reaper + Gamer Set
-![420](https://c1.staticflickr.com/5/4162/34721736006_6c8b1be13a_o.jpg)
+![420](https://i.imgur.com/Fwv2c1y.jpg)
 
 I don't know what to write here. Does it have to be anything?
